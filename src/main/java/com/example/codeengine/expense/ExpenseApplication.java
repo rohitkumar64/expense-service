@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ExpenseApplication {
 
 	public static void main(String[] args) {
+		//hello swati tatti
 		SpringApplication.run(ExpenseApplication.class, args);
 	}
 
